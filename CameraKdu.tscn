@@ -1,0 +1,7 @@
+[gd_scene format=2]
+
+[node name="CameraKdu" type="InterpolatedCamera"]
+transform = Transform( -1.25069, 0.0407532, -0.101223, 0, 1.4148, 0.569609, 0.117586, 0.503351, -1.25022, -0.209609, 2.45655, -4.96142 )
+current = true
+speed = 10.0
+enabled = true
